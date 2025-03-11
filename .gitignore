@@ -1,0 +1,28 @@
+# Ignore compiled files and executables
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.a
+*.so
+*.bin
+*.class
+*.pyc
+*.pyo
+*.swp
+
+# Ignore build folders
+/build/
+/dist/
+/Debug/
+/Release/
+
+# Ignore Visual Studio and Code-specific files
+.vscode/
+*.sln
+*.vcxproj*
+*.ncb
+*.user
+*.cache
+*.log
