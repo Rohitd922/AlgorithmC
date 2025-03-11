@@ -26,3 +26,7 @@
 *.user
 *.cache
 *.log
+*.ilk
+*.idb
+*.pdb
+*.ipch
